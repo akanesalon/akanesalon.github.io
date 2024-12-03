@@ -8,6 +8,8 @@
   background-color: #e2edff;
 }
 
-section {
-  padding-top: 5rem;
+section,
+footer {
+  /* padding-top: 5rem; */
+  margin-top: -50px;
 }
